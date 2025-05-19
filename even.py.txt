@@ -1,0 +1,5 @@
+import numpy as np
+
+# 5. array e of even numbers
+
+e=np.array([2,4,6,8,10])

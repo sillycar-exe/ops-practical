@@ -2,4 +2,4 @@ import numpy as np
 
 # 2. array b of fibonacci series
 
-a=([1,1,2,3,5,8,])
+a=np.array([1,1,2,3,5,8,])

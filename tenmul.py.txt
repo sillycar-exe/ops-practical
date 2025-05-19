@@ -1,0 +1,5 @@
+import numpy as np
+
+# 6. array f of 10 multiple numbers
+
+f=np.array([10,20,30,40,50])

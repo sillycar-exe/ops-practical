@@ -1,0 +1,5 @@
+import numpy as np
+
+# 2. array b of fibonacci series
+
+a=([1,1,2,3,5,8,])

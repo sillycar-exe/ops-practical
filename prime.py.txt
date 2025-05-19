@@ -1,0 +1,5 @@
+import numpy as np
+
+# 3. array c of prime numbers
+
+a=np.array([2,3,5,7,11])
